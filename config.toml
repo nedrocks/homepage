@@ -1,4 +1,4 @@
-baseurl = "http://nedrockson.com"
+baseurl = "https://nedrocks.github.io"
 
 builddrafts = true
 canonifyurls = false
