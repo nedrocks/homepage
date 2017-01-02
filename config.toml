@@ -1,4 +1,6 @@
 baseurl = "https://nedrocks.github.io"
+relativeurls = true
+paginate = 5
 
 builddrafts = true
 canonifyurls = false
@@ -9,50 +11,57 @@ layoutdir = "layouts"
 publishdir = "public"
 
 author = "Ned Rockson"
-title = "Hello, World!"
+title = "nedrockson.com"
 
-theme = "hugo-goa"
+#theme = "hugo-goa"
+theme = "hugo-geo"
 
 #disqusShortname = "nedrockson-homepage"
 #googleAnalytics = ""
-enableRobotsTXT = true
-
-## Site Settings
-[params]
-author = "Ned Rockson"
-intro = "Entrepreneur, Engineer, Product Manager"
-description = "Working on the next big thing at NTBR Digital Consultants, LLC"
-authorimage = "profile.jpg"
-dateformat = "Jan 1, 2017"
+enablerobotstxt = true
 
 ## Site Meta Settings
 [params.meta]
 description = "Ned Rockson's homepage"
 keywords = "developer,engineer,blog,homepage"
 
-## Social Accounts
-[params.social]
-github = "nedrocks"
-linkedin = "nedrocks"
-twitter = "nedrockson"
-facebook = "nedrocks"
-stackoverflow = "ned-rockson"
-email = "nedrocks@gmail.com"
 
-## Extras
-[params.extra]
-copyright = ""
-powerdby = false
-highlightjs = true
+[taxonomies]
+    tag = "tags"
+    tutorial = "tutorials"
 
-## Main Menu
-#[[menu.main]]
-#    name = "blog"
-#    weight = 100
-#    identifier = "blog"
-#    url = "/blog/"
-[[menu.main]]
-    name = "about"
-    identifier = "about"
-    weight = 200
-    url = "/about"
+[params]
+    # Render the rotating globe in the sidebar
+    showglobe = true
+
+    # Google Analytics
+    #analytics = "SHORT-CODE-HERE"
+
+    # Social buttons for sidebar
+    github = "https://github.com/nedrocks"
+    twitter = "https://twitter.com/nedrockson"
+    linkedin = "https://linkedin.com/in/nedrocks"
+    email = "nedrocks@gmail.com"
+
+    # Header Title for the main page
+    header = "Recent Thoughts"
+
+    # Sidebar profile picture
+    profilepic = "img/profile.jpg"
+
+    # Title/subtitle for the sidebar
+    title = "NED ROCKSON"
+    subtitle = "ENTREPRENEUR, ENGINEER"
+
+    # Nav links below the profile picture
+    [[params.navlinks]]
+    name = "About"
+    url = "about/"
+
+    [[params.navlinks]]
+    name = "Blog"
+    url = "post/"
+
+    [[params.navlinks]]
+    name = "Books"
+    url = "books/"
