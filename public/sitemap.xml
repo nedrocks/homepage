@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://nedrocks.github.io/post/hello-world/</loc>
+    <loc>http://www.nedrockson.com/post/hello-world/</loc>
     <lastmod>2017-01-02T00:04:43-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nedrocks.github.io/books/positioning/</loc>
+    <loc>http://www.nedrockson.com/books/positioning/</loc>
     <lastmod>2017-01-01T18:10:04-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nedrocks.github.io/about/</loc>
+    <loc>http://www.nedrockson.com/about/</loc>
     <lastmod>2017-01-01T16:06:13-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nedrocks.github.io/tags/about/</loc>
+    <loc>http://www.nedrockson.com/tags/about/</loc>
     <lastmod>2017-01-01T16:06:13-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://nedrocks.github.io/tags/blog/</loc>
+    <loc>http://www.nedrockson.com/tags/blog/</loc>
     <lastmod>2017-01-02T00:04:43-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://nedrocks.github.io/books/</loc>
+    <loc>http://www.nedrockson.com/books/</loc>
     <lastmod>2017-01-01T18:10:04-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://nedrocks.github.io/</loc>
+    <loc>http://www.nedrockson.com/</loc>
     <lastmod>2017-01-02T00:04:43-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://nedrocks.github.io/post/</loc>
+    <loc>http://www.nedrockson.com/post/</loc>
     <lastmod>2017-01-02T00:04:43-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://nedrocks.github.io/tags/</loc>
+    <loc>http://www.nedrockson.com/tags/</loc>
     <priority>0</priority>
   </url>
   

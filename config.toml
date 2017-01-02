@@ -1,4 +1,4 @@
-baseurl = "https://nedrocks.github.io/"
+baseurl = "http://www.nedrockson.com/"
 relativeurls = false
 paginate = 5
 

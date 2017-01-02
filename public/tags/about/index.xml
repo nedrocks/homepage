@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on NED ROCKSON</title>
-    <link>https://nedrocks.github.io/tags/about/index.xml</link>
+    <link>http://www.nedrockson.com/tags/about/index.xml</link>
     <description>Recent content in About on NED ROCKSON</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <atom:link href="https://nedrocks.github.io/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.nedrockson.com/tags/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
-      <link>https://nedrocks.github.io/about/</link>
+      <link>http://www.nedrockson.com/about/</link>
       <pubDate>Sun, 01 Jan 2017 16:06:13 -0800</pubDate>
       
-      <guid>https://nedrocks.github.io/about/</guid>
+      <guid>http://www.nedrockson.com/about/</guid>
       <description>
 
 &lt;p&gt;I&amp;rsquo;m a San Francisco Bay Area native. I grew up in Palo Alto, went to school at Stanford to study Computer Science and now live in SF.&lt;/p&gt;

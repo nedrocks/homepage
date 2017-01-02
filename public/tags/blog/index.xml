@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on NED ROCKSON</title>
-    <link>https://nedrocks.github.io/tags/blog/index.xml</link>
+    <link>http://www.nedrockson.com/tags/blog/index.xml</link>
     <description>Recent content in Blog on NED ROCKSON</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <atom:link href="https://nedrocks.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.nedrockson.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello, World!</title>
-      <link>https://nedrocks.github.io/post/hello-world/</link>
+      <link>http://www.nedrockson.com/post/hello-world/</link>
       <pubDate>Mon, 02 Jan 2017 00:04:43 -0800</pubDate>
       
-      <guid>https://nedrocks.github.io/post/hello-world/</guid>
+      <guid>http://www.nedrockson.com/post/hello-world/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve had &amp;ldquo;Make a personal website&amp;rdquo; on my todo list for about 5 years now. It always seemed daunting. At the end of the day, I continued to let the perfect be the enemy of the good and thus never pulled the trigger on it. But here we are, a reasonable website that&amp;rsquo;s not great, but I&amp;rsquo;m happy with the first step. As a goal for 2017, I plan to add my book reviews here, and attempt to write a blog post four times per month. Let&amp;rsquo;s see how it goes.&lt;/p&gt;
 
 &lt;p&gt;For now, happy 2017!&lt;/p&gt;
