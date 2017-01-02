@@ -59,6 +59,10 @@ keywords = "developer,engineer,blog,homepage"
     url = "about/"
 
     [[params.navlinks]]
+    name = "Daily Stoic"
+    url = "/tags/daily-stoic"
+
+    [[params.navlinks]]
     name = "Blog"
     url = "post/"
 
