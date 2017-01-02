@@ -41,7 +41,7 @@ keywords = "developer,engineer,blog,homepage"
     github = "https://github.com/nedrocks"
     twitter = "https://twitter.com/nedrockson"
     linkedin = "https://linkedin.com/in/nedrocks"
-    email = "nedrocks@gmail.com"
+    email = "ned@nedrockson.com"
 
     # Header Title for the main page
     header = "Recent Thoughts"
