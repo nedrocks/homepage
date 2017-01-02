@@ -1,5 +1,5 @@
-baseurl = "https://nedrocks.github.io"
-relativeurls = true
+baseurl = "https://nedrocks.github.io/"
+relativeurls = false
 paginate = 5
 
 builddrafts = true
