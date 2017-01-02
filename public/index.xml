@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NED ROCKSON</title>
+    <link>https://nedrocks.github.io/index.xml</link>
+    <description>Recent content on NED ROCKSON</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 02 Jan 2017 00:04:43 -0800</lastBuildDate>
+    <atom:link href="https://nedrocks.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello, World!</title>
+      <link>https://nedrocks.github.io/post/hello-world/</link>
+      <pubDate>Mon, 02 Jan 2017 00:04:43 -0800</pubDate>
+      
+      <guid>https://nedrocks.github.io/post/hello-world/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve had &amp;ldquo;Make a personal website&amp;rdquo; on my todo list for about 5 years now. It always seemed daunting. At the end of the day, I continued to let the perfect be the enemy of the good and thus never pulled the trigger on it. But here we are, a reasonable website that&amp;rsquo;s not great, but I&amp;rsquo;m happy with the first step. As a goal for 2017, I plan to add my book reviews here, and attempt to write a blog post four times per month. Let&amp;rsquo;s see how it goes.&lt;/p&gt;
+
+&lt;p&gt;For now, happy 2017!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Positioning: The Battle for Your Mind</title>
+      <link>https://nedrocks.github.io/books/positioning/</link>
+      <pubDate>Sun, 01 Jan 2017 18:10:04 -0800</pubDate>
+      
+      <guid>https://nedrocks.github.io/books/positioning/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/Positioning-Battle-Your-Al-Ries/dp/0071373586&#34;&gt;Positioning&lt;/a&gt; is a short read from the 1980s that speaks to marketing in an overcommunicated society. Clearly more relevant today than ever, Al Ries addresses the phenomenon of being second to market in a competitive field. The case studies in the last 5 chapters help drive home the points. Strong introduction to market and product positioning. &lt;em&gt;7 / 10&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://nedrocks.github.io/about/</link>
+      <pubDate>Sun, 01 Jan 2017 16:06:13 -0800</pubDate>
+      
+      <guid>https://nedrocks.github.io/about/</guid>
+      <description>
+
+&lt;p&gt;I&amp;rsquo;m a San Francisco Bay Area native. I grew up in Palo Alto, went to school at Stanford to study Computer Science and now live in SF.&lt;/p&gt;
+
+&lt;h2 id=&#34;by-day&#34;&gt;By Day&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;m a problem solver. Usually this means working with others to build things using computers. I&amp;rsquo;ve been a professional software engineer since 2007, a product manager since 2013, and an entrepreneur since 2014. I may be the most passionate person you&amp;rsquo;ll ever work with.&lt;/p&gt;
+
+&lt;h2 id=&#34;by-night&#34;&gt;By Night&lt;/h2&gt;
+
+&lt;p&gt;I like taking on new hobbies. I learn the basics and practice for a few months, then tend to move on. Some of the hobbies I&amp;rsquo;ve enjoyed over the past 15 years: Glass blowing, Biomedical research, French horn, Road Cycling, Running, Brazilian Jiu Jitsu, Poker, Golf, Yoga, Video games, Camping.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
