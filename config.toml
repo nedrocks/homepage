@@ -1,0 +1,58 @@
+baseurl = "http://nedrockson.com"
+
+builddrafts = true
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Ned Rockson"
+title = "Hello, World!"
+
+theme = "hugo-goa"
+
+#disqusShortname = "nedrockson-homepage"
+#googleAnalytics = ""
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Ned Rockson"
+intro = "Entrepreneur, Engineer, Product Manager"
+description = "Working on the next big thing at NTBR Digital Consultants, LLC"
+authorimage = "profile.jpg"
+dateformat = "Jan 1, 2017"
+
+## Site Meta Settings
+[params.meta]
+description = "Ned Rockson's homepage"
+keywords = "developer,engineer,blog,homepage"
+
+## Social Accounts
+[params.social]
+github = "nedrocks"
+linkedin = "nedrocks"
+twitter = "nedrockson"
+facebook = "nedrocks"
+stackoverflow = "ned-rockson"
+email = "nedrocks@gmail.com"
+
+## Extras
+[params.extra]
+copyright = ""
+powerdby = false
+highlightjs = true
+
+## Main Menu
+#[[menu.main]]
+#    name = "blog"
+#    weight = 100
+#    identifier = "blog"
+#    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about"
