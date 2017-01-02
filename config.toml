@@ -17,7 +17,7 @@ title = "nedrockson.com"
 theme = "hugo-geo"
 
 #disqusShortname = "nedrockson-homepage"
-#googleAnalytics = ""
+googleAnalytics = "UA-89702408-1"
 enablerobotstxt = true
 
 ## Site Meta Settings
@@ -35,7 +35,7 @@ keywords = "developer,engineer,blog,homepage"
     showglobe = true
 
     # Google Analytics
-    #analytics = "SHORT-CODE-HERE"
+    analytics = "UA-89702408-1"
 
     # Social buttons for sidebar
     github = "https://github.com/nedrocks"
