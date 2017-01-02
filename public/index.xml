@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello, World!</title>
+    <link>http://nedrockson.com/index.xml</link>
+    <description>Recent content on Hello, World!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 01 Jan 2017 16:10:04 -0800</lastBuildDate>
+    <atom:link href="http://nedrockson.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Good to Great book review</title>
+      <link>http://nedrockson.com/post/good-to-great/</link>
+      <pubDate>Sun, 01 Jan 2017 16:10:04 -0800</pubDate>
+      
+      <guid>http://nedrockson.com/post/good-to-great/</guid>
+      <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://nedrockson.com/about/</link>
+      <pubDate>Sun, 01 Jan 2017 16:06:13 -0800</pubDate>
+      
+      <guid>http://nedrockson.com/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
