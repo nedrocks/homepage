@@ -50,7 +50,8 @@ keywords = "developer,engineer,blog,homepage"
     profilepic = "img/profile.jpg"
 
     # Title/subtitle for the sidebar
-    title = "NED ROCKSON"
+    sitetitle = "nedrockson.com"
+    title = "Ned Rockson"
     subtitle = "ENTREPRENEUR, ENGINEER"
 
     # Nav links below the profile picture
