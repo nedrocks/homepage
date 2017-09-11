@@ -193,12 +193,12 @@ Absolutely fantastic book. I forgot to write a review for it initially and now (
     * A product with an uncertain position is very difficult to buy
     * You won't be able to recruit partners and allies, because they won't be sure enough about your goals to make any meaningful commitments.
     * Exercise:
-        * For <target customers>
-        * who are disasatisfied with <current market alternative>
-        * our product is a <product category>
-        * That provides <compelling reason to buy>
-        * Unlike <the product alternative>
-        * We have assembled <key whole product features for your specific application>
+        * For (target customers)
+        * who are disasatisfied with (current market alternative)
+        * our product is a (product category)
+        * That provides (compelling reason to buy)
+        * Unlike (the product alternative)
+        * We have assembled (key whole product features for your specific application)
 * The shifting burden of truth
     * The most powerful evidence of leadership and likelihood of competitive victory is market share. In the absence of definitive numbers here, pragmatists will look to the quality and number of partners and allies you have assembled in your camp, and their degree of demonstrable commitment to your cause.
 * Whole Product Launches
