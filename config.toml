@@ -1,72 +1,49 @@
-baseurl = "http://www.nedrockson.com/"
+baseurl = "http://localhost:8000/"#"http://www.nedrockson.com/"
+languageCode = "en-us"
+theme = "hugo-ink"
+
+title = "Compiling Leadership"
 relativeurls = false
 paginate = 5
 
-builddrafts = true
-canonifyurls = false
-languageCode = "en-US"
+copyright = "© 2019 Ned Rockson. Some Rights Reserved"
 
-contentdir = "content"
-layoutdir = "layouts"
-publishdir = "public"
+pygmentsstyle = "vs"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
 
-author = "Ned Rockson"
-title = "nedrockson.com"
-
-#theme = "hugo-goa"
-theme = "hugo-geo"
-
-#disqusShortname = "nedrockson-homepage"
 googleAnalytics = "UA-89702408-1"
-enablerobotstxt = true
 
-## Site Meta Settings
-[params.meta]
-description = "Ned Rockson's homepage"
-keywords = "developer,engineer,blog,homepage"
+[params]
+    subtitle = "15 years of building, leading, and managing; failures and successes"
 
+    mode = "auto"
+
+# Nav links below the profile picture
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[paras.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/nedrocks"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/nedrockson"
+
+[[params.social]]
+name = "Linkedin"
+icon = "linkedin"
+url = "https://linkedin.com/in/nedrocks"
 
 [taxonomies]
     tag = "tags"
-    tutorial = "tutorials"
-
-[params]
-    # Render the rotating globe in the sidebar
-    showglobe = true
-
-    # Google Analytics
-    analytics = "UA-89702408-1"
-
-    # Social buttons for sidebar
-    github = "https://github.com/nedrocks"
-    twitter = "https://twitter.com/nedrockson"
-    linkedin = "https://linkedin.com/in/nedrocks"
-    email = "ned@nedrockson.com"
-
-    # Header Title for the main page
-    header = "Recent Thoughts"
-
-    # Sidebar profile picture
-    profilepic = "img/profile.jpg"
-
-    # Title/subtitle for the sidebar
-    sitetitle = "nedrockson.com"
-    title = "Ned Rockson"
-    subtitle = "ENTREPRENEUR, ENGINEER"
-
-    # Nav links below the profile picture
-    [[params.navlinks]]
-    name = "About"
-    url = "about/"
-
-    [[params.navlinks]]
-    name = "Daily Stoic"
-    url = "/tags/daily-stoic"
-
-    [[params.navlinks]]
-    name = "Blog"
-    url = "post/"
-
-    [[params.navlinks]]
-    name = "Books"
-    url = "/tags/bookshelf/"
