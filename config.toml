@@ -1,4 +1,4 @@
-baseurl = "http://localhost:8000/"#"http://www.nedrockson.com/"
+baseurl = "http://www.nedrockson.com/"
 languageCode = "en-us"
 theme = "hugo-ink"
 
