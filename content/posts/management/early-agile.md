@@ -1,5 +1,5 @@
 +++
-title = "Early Agile OR The Agile That Doesn't Work For Your Team is the Same Agile That Doesn't Work For Others"
+title = "Early Agile OR How to stop worrying and love self management"
 date = 2019-12-07T20:41:27-08:00
 description = "How the evolution of agile organically trumps imposed top-down agile-ity"
 categories = ["management"]
