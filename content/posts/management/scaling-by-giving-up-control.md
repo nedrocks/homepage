@@ -13,6 +13,8 @@ enjoyed and excelled at dealing with fine details. In order to succeed, the grea
 turned manager must remove herself from critical design and implementation paths. In this way 
 she empowers her team to succeed.
 
+![](/img/gloves.jpeg)
+
 Often the first hurdle comes during the software design process. In the past this time allowed 
 her creativity and abstract problem solving. In the past she could think out loud, be self 
 deprecating, and verbally spar with others on her team. In the past, the team had a level 
