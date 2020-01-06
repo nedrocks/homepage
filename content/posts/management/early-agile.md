@@ -47,7 +47,7 @@ Imagine trying to time-box their daily touchpoint standups to 15 minutes because
 
 The agile system that worked for this team is the same agile system that works for others. Their agile system built on the foundation of three necessities for your dev team:
 
-* Trust[^1] - Without trusting your developers, they will not self manage and Agile becomes an excellent petri dish of micromanagement.
+* Trust[^2] - Without trusting your developers, they will not self manage and Agile becomes an excellent petri dish of micromanagement.
 * A culture of respect, identity, and ownership - Frequently as a manager one can fall into the trap of short-tenure and replaceable talent, but having strong respect 
 for team member's abilities and specialties will drive self-management because it brings respect, identity, and ownership.
 * Time to provide inflection points - Knowledge work is not something trackable in hours. We tend to equate complexity with story points and other crude mechanisms, 
@@ -55,7 +55,7 @@ but leaps for individuals and teams happen at inflection points. An eight hour d
 of work. The other 7.25 hours were allowing the dev to hit the required inflection point.
 
 The second point is interesting when looked through the lens of intra-development team, especially with short tenures and strict trivia and competitive hiring practices. 
-The legibility of each dev's status[^1] in the team pushes them to try to constantly improve their standing (hence the instability of most dev teams and thus short tenures.) 
+The legibility of each dev's status[^3] in the team pushes them to try to constantly improve their standing (hence the instability of most dev teams and thus short tenures.) 
 That's a subject for another post though.
 
 So does Agile work? Yes, and it requires trust, culture, and time.
@@ -75,5 +75,5 @@ So does Agile work? Yes, and it requires trust, culture, and time.
                 strOutput += ','
         print(strOutput)
 [^1]: Probably self-selection bias: well-published teams with strong self-direction have had major influence on the agile pattern.
-[^1]: "Trust your devs" taken directly from Erik Dietrich's excellent overview of the [perils of certification for Agile](https://daedtech.com/in-devs-we-trust/)
-[^1]: Status illegibility is described in [part IV](https://www.ribbonfarm.com/2010/10/14/the-gervais-principle-iv-wonderful-human-beings/) of Venkatesh Rao's essay series The Gervais Principle.
+[^2]: "Trust your devs" taken directly from Erik Dietrich's excellent overview of the [perils of certification for Agile](https://daedtech.com/in-devs-we-trust/)
+[^3]: Status illegibility is described in [part IV](https://www.ribbonfarm.com/2010/10/14/the-gervais-principle-iv-wonderful-human-beings/) of Venkatesh Rao's essay series The Gervais Principle.

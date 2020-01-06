@@ -13,7 +13,7 @@ people to improve undoubtedly led to short lifespans and few offspring. Leaders 
 strongest, and best with tools. During the following 13 millennia, countless leaders have proven that 
 leadership no longer requires loud speech and proficiency with tools and weapons.
 
-![](/img/evolve.png)
+![](/img/evolve.jpg)
 
 "Yeah, humanity can naturally manage ourselves now. I won't need any special training. Even better, I'm a
 middle child - I embody all the necessary peacemaking traits a manager needs," I reasoned. I then dove in
