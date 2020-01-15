@@ -47,3 +47,6 @@ url = "https://linkedin.com/in/nedrocks"
 
 [taxonomies]
     tag = "tags"
+
+[markup.goldmark.renderer]
+unsafe= true
