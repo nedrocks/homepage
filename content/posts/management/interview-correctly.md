@@ -3,6 +3,7 @@ title: "Interview Correctly: Are You Selecting for the Right Things?"
 date: 2020-01-12T21:24:00-08:00
 categories: ["management", "interviewing"]
 tags: ["interviewing", "engineering"]
+images: ["/img/interview-whiteboard.png"]
 draft: false
 ---
 
@@ -10,7 +11,7 @@ I have been lucky to have interview training from small companies, large compani
 
 In case you've never been part of a technical interview, I'll give you a quick rundown. The candidate's interview usually lasts between three to eight hours, with each interview taking between 30 minutes and one hour. They often start with introductions and a quick 5-15 minute question about a problem the candidate solved in the past. Something like, "Ah, I see you have worked in React. Tell me about the problem you solved with the bloo blah blee."[^1]
 
-![](/img/interview-whiteboard.jpg)
+![](/img/interview-whiteboard.png)
 
 The majority of the remaining time involves one or more technical questions. Sometimes the candidate knows how many to expect and what would a good, great, or excellent performance looks like, although this is pretty rare. The questions are mostly one of the following types.
 
