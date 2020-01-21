@@ -13,6 +13,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 googleAnalytics = "UA-89702408-1"
+disqusShortname = "compiling-leadership"
 
 [params]
     subtitle = "15 years of building, leading, and managing; failures and successes"
