@@ -3,6 +3,7 @@ title: "Black Lives Matter - Rationalizing the opposition"
 date: 2020-06-04T17:09:00-08:00
 categories: ["blm"]
 tags: ["blm"]
+images: ["/img/fist.png"]
 draft: false
 ---
 
