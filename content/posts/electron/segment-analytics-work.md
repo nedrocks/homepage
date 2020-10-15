@@ -102,6 +102,6 @@ class DebriefAnalytics {
 ```
 
 # Conclusion
-Hopefully this helped you save some time, or at least helped you not get incredibly frustrated! For other electron tips, check out the electron section [here](/tags/electron/). If you want to talk more about eletcron, reach out to me or leave a comment. I'd love to hear from you.
+Hopefully this helped you save some time, or at least helped you not get incredibly frustrated! For other electron tips, check out the electron tag. If you want to talk more about eletcron, reach out to me or leave a comment. I'd love to hear from you.
 
 [^1]: Other libraries I tried working with: [analytics.js-integrations](https://github.com/segmentio/analytics.js-integrations), [analytics.js-core](https://github.com/segmentio/analytics.js-core).
